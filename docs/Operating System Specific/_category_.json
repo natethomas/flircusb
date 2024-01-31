@@ -1,0 +1,8 @@
+{
+  "label": "Operating System Specific Tips",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+    "description": "Useful tips for specific OSes."
+  }
+}
